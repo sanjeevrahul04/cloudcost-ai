@@ -1,0 +1,17 @@
+# AWS credentials
+.env
+*.env
+~/.aws/credentials
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Node/React
+node_modules/
+build/
+dist/
