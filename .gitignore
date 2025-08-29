@@ -1,17 +1,18 @@
-# AWS credentials
-.env
-*.env
-~/.aws/credentials
-
 # Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.venv/
-venv/
 
-# Node/React
-node_modules/
-build/
-dist/
+# PyCharm
+.idea/
+
+# Test / temporary files
+*.txt
+*.log
+all_code*.txt
+project_contents.txt
+repo_structure.txt
+
+# pytest
+.pytest_cache/

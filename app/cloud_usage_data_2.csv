@@ -1,0 +1,4 @@
+Service,UsageHours,Cost
+Lambda,15,1.5
+DynamoDB,40,8.0
+S3,20,2.0

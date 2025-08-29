@@ -1,0 +1,4 @@
+Service,UsageHours,Cost
+EC2,120,24.5
+S3,50,5.0
+RDS,30,12.0
